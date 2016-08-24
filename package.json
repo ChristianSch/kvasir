@@ -1,6 +1,6 @@
 {
   "name": "kvasir",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Simple HTTP based microservice registry written in Node.js",
   "main": "index.js",
   "scripts": {
@@ -20,5 +20,11 @@
     "body-parser": "^1.15.2",
     "express": "^4.14.0",
     "lokijs": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.12",
+    "mocha": "^3.0.2",
+    "supertest": "^2.0.0"
   }
 }
