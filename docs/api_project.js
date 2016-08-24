@@ -1,0 +1,1 @@
+define({  "name": "kvasir",  "version": "0.1.0",  "description": "Simple HTTP based microservice registry written in Node.js",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-08-24T13:49:48.505Z",    "url": "http://apidocjs.com",    "version": "0.15.1"  }});
